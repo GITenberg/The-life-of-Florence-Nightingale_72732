@@ -1,5 +1,8 @@
 _repo: The-life-of-Florence-Nightingale_72732
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72732-h/images/cover.jpg
 creator:
   author:
     agent_name: Tooley, Sarah A.
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56789
     wikipedia: https://en.wikipedia.org/wiki/Sarah_Tooley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72732#The-life-of-Florence-Nightingale
 gutenberg_issued: '2024-01-15'
 gutenberg_type: Text
 identifiers:
