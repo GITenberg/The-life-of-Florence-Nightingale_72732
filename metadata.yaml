@@ -1,0 +1,37 @@
+_repo: The-life-of-Florence-Nightingale_72732
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tooley, Sarah A.
+    aliases:
+    - Tooley, Sarah A. Southall
+    - Southall, Sarah Anne
+    birthdate: 1857
+    deathdate: 1946
+    gutenberg_agent_id: '56789'
+    url: http://www.gutenberg.org/2009/agents/56789
+    wikipedia: https://en.wikipedia.org/wiki/Sarah_Tooley
+description: ''
+gutenberg_issued: '2024-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72732'
+language: en
+pgterms:marc904: https://archive.org/details/lifeofflorenceni00tool
+pgterms:marc905: 20200831065206tooley
+pgterms:marc906: '1916'
+pgterms:marc907: US
+production_note: Brian Wilson, Turgut Dincer, Charlie Howard, and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive)
+publication_note: '  $aNew York :$bCassell and Company, ltd., $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nightingale, Florence, 1820-1910'
+- !lcsh 'Nurses -- England -- Biography'
+- !lcc 'UH'
+- GITenberg
+title: The life of Florence Nightingale
+url: http://www.gutenberg.org/ebooks/72732
